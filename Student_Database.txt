@@ -1,0 +1,4 @@
+ID:Name:Age:Roll_Number:Standard
+1:AftabAliShah:18:101:Matric
+2:Jani:15:1002:Middle
+3:Hussain:19:1003:BSC
